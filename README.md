@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on STU.
 - 🌱 I’m currently learning Computer vision in Medical Images, like detection, segmentation, and classification. Plus, GAN is also an attractive direction.
 - 👯 I’m looking to collaborate with anyone who likes medical image processing.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmland&layout=compact)](https://github.com/palmland/)
