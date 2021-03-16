@@ -1,10 +1,10 @@
-### Hi there 👋<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <!--
 **PalmLand/PalmLand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 🏴‍☠️ About Me  🏴‍☠️ </h3>
+<h3> 😄 About Me  😄 </h3>
 
 - 🔭 I’m currently working on STU.
 - 🌱 I’m currently learning Computer vision in Medical Images, like detection, segmentation, and classification. Plus, GAN is also an attractive direction.
