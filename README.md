@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 😄 About Me  😄 </h3>
 
-- 🔭 I’m currently working on STU.
+- 🔭 I'm currently studying at STU.
 - 🌱 I’m currently learning Computer vision in Medical Images, like detection, segmentation, and classification. Plus, GAN is also an attractive direction.
 - 👯 I’m looking to collaborate with anyone who likes medical image processing.
 
